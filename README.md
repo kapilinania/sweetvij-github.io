@@ -38,31 +38,31 @@ pip install -r requirements.txt
 ##Configure any settings or environment variables:
 cp .env.example .env
 
-##Start the application:
+## Start the application:
 python app.py
 
-###Usage
+## Usage
 Explain how users can use your project. Provide code examples, usage scenarios, or instructions on how to get the most out of your project. For example:
 
 To run the project, use the following command:
 
 python main.py --input data.csv
 
-##Contributing
+## Contributing
 Explain how others can contribute to your project. Include guidelines for submitting bug reports, feature requests, and pull requests. For example:
 
 We welcome contributions from the community. To contribute to this project, please follow these steps:
 
-##Fork the project.
+## Fork the project.
 Create a new branch for your feature or bug fix.
 Make your changes and write tests if applicable.
 Submit a pull request.
-##License
+## License
 Specify the license
 
 This project is licensed under the MIT License - see the LICENSE.md file for details.
 
-##Acknowledgments
+## Acknowledgments
 You can use this section to give credit or acknowledge any resources, libraries, or people who have helped or inspired your project.
 
 Feel free to customize this template with information and requirements. The README.md file serves as an important document to introduce your project to potential users and contributors, so be sure to make it informative and easy to understand.
