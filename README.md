@@ -1,6 +1,7 @@
 # sweetvij-github.io
 
-# Project Name
+![image](https://github.com/kapilinania/sweetvij-github.io/assets/67285213/427071f9-58c3-461f-a7fc-749e0327d3ac)
+
 
 **Description**: Briefly describe your project in one or two sentences.
 
